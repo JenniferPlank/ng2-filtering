@@ -1,1 +1,2 @@
-# ng2-filtering
+- npm install
+- npm start
